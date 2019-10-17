@@ -1,0 +1,1 @@
+mvn assembly:assembly 打包 上传flink即可
